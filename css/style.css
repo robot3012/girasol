@@ -1,0 +1,27 @@
+/**
+@author Yehison Cieza
+@date 21/09/2024
+@version 1
+@description Estilo y color
+ */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa el alto completo de la ventana */
+    margin: 0; /* Elimina márgenes por defecto */
+    background-color: #791b1b; /* Fondo oscuro para la página */
+}
+
+canvas {
+    display: block; /* Elimina espacio debajo del canvas */
+    background-color: #2c1a1a; /* Fondo más suave para el canvas */
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5); /* Sombra alrededor del canvas */
+    border-radius: 15px; /* Bordes redondeados para suavizar la apariencia */
+}
+/* Estilo general de la planta para una apariencia más realista */
+#girasolCanvas {
+            filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.2)); /* Sombra sutil para dar profundidad */
+        }
+
