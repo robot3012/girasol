@@ -38,6 +38,6 @@ Para ejecutar el proyecto solo necesitas un navegador moderno que soporte la **C
    ```
 3. Abre el archivo index.html en tu navegador preferido.
    ## Uso
-    Abre el archivo index.html en tu navegador.
-    Disfruta de la animación del girasol que se actualiza en tiempo real.
-    Puedes modificar el número de pétalos, la oscilación de las hojas o el estilo general editando el archivo JavaScript
+    - Abre el archivo index.html en tu navegador.
+    - Disfruta de la animación del girasol que se actualiza en tiempo real.
+    - Puedes modificar el número de pétalos, la oscilación de las hojas o el estilo general editando el archivo JavaScript
