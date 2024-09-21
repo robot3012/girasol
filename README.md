@@ -13,7 +13,7 @@ Este proyecto genera una animación realista de un girasol utilizando **JavaScri
 
 ## Vista Previa
 
-![Vista previa del girasol](ruta-a-la-imagen-del-girasol.png)
+![Vista previa del girasol](https://github.com/robot3012/girasol/blob/main/capture/image.png)
 
 ## Tecnologías Utilizadas
 
